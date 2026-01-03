@@ -1,7 +1,12 @@
-<!--<h1>docmd</h1>-->
+<!--
+<h1>docmd</h1>
 <h1><img src="https://raw.githubusercontent.com/mgks/docmd/main/src/assets/images/docmd-logo-light.png" alt="docmd logo" width="150" /></h1>
-<h3>Modern. Minimalist. Isomorphic.</h3>
-<p>The documentation engine for the next generation of web tools.</p>
+-->
+<div align="center">
+  <img width="800" alt="docmd preview" src="https://docmd.mgks.dev/assets/images/preview-dark-welcome.png" style="border-radius: 10px" />
+  <h3>Modern. Minimalist. Isomorphic.</h3>
+  <p>The documentation engine for the next generation of web tools.</p>
+</div>
 
 ### The Ecosystem
 - **[@docmd/main](https://github.com/docmd-io/docmd)**: The core engine and CLI.
