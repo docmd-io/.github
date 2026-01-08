@@ -11,7 +11,7 @@ The minimalist documentation generator for the modern web.
 No React, no heavy bundles, no complex setup. Just beautiful docs instantly.
 
 <div>
-  <sup><b><a href="https://docmd.io">Website</a> • <a href="https://docs.docmd.io">Documentation</a> • <a href="https://live.docmd.io">Live Editor</a></b></sup>
+  <h5><a href="https://docmd.io">Website</a> • <a href="https://docs.docmd.io">Documentation</a> • <a href="https://live.docmd.io">Live Editor</a></h5>
 </div>
 
 #### Quick Start
