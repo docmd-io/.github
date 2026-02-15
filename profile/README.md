@@ -1,8 +1,4 @@
-<!--
-<h1>docmd</h1>
-<h1><img src="https://raw.githubusercontent.com/mgks/docmd/main/src/assets/images/docmd-logo-light.png" alt="docmd logo" width="150" /></h1>
-<img width="800" alt="docmd preview" src="https://docmd.mgks.dev/assets/images/preview-dark-welcome.png" style="border-radius: 10px" />
--->
+<img src="https://github.com/docmd-io/docmd/blob/main/packages/ui/assets/images/docmd-logo-dark.png?raw=true" alt="docmd logo" width="180" />
 
 ### Zero Clutter. Just Content.
 
@@ -16,14 +12,14 @@ No React, no heavy bundles, no complex setup. Just beautiful docs instantly.
 
 #### Quick Start
 ```bash
-npm install -g @docmd/main
+npm install -g @docmd/core
 
 docmd init
 ```
 
 <div>
-  <a href="https://www.npmjs.com/package/@mgks/docmd"><img src="https://img.shields.io/npm/v/@mgks/docmd.svg?style=flat-square&color=38bd24" alt="npm version"></a>
-  <a href="https://www.npmjs.com/package/@mgks/docmd"><img src="https://img.shields.io/npm/dt/@mgks/docmd.svg?style=flat-square&color=38bd24" alt="downloads"></a>
-  <a href="https://github.com/mgks/docmd/stargazers"><img src="https://img.shields.io/github/stars/mgks/docmd?style=flat-square&logo=github" alt="stars"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/mgks/docmd.svg?style=flat-square&color=blue" alt="license"></a>
+  <a href="https://www.npmjs.com/package/@docmd/core"><img src="https://img.shields.io/npm/v/@docmd/core.svg?style=flat-square&color=38bd24" alt="npm version"></a>
+  <a href="https://www.npmjs.com/package/@docmd/core"><img src="https://img.shields.io/npm/dt/@docmd/core.svg?style=flat-square&color=38bd24" alt="downloads"></a>
+  <a href="https://github.com/docmd-io/docmd/stargazers"><img src="https://img.shields.io/github/stars/docmd-io/docmd?style=flat-square&logo=github" alt="stars"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/docmd-io/docmd.svg?style=flat-square&color=blue" alt="license"></a>
 </div>
