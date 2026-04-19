@@ -1,8 +1,8 @@
 <img src="https://github.com/docmd-io/docmd/blob/main/packages/ui/assets/images/docmd-logo-dark.png?raw=true" alt="docmd logo" width="180" />
 
-### Zero Clutter. Just Content.
+### Build production-ready documentation from Markdown in seconds.
 
-The minimalist documentation generator for the modern web.
+Zero setup when you start. Full control when you need it.
 <br/>
 No React, no heavy bundles, no complex setup. Just beautiful docs instantly.
 
