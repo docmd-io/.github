@@ -11,6 +11,7 @@ No React, no heavy bundles, no complex setup. Just beautiful docs instantly.
 </div>
 
 #### Zero Config. Instant Launch.
+
 ```bash
 npx @docmd/core dev
 ```
