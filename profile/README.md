@@ -17,6 +17,7 @@ npx @docmd/core dev
 ```
 
 <div>
+  <a href="https://github.com/marketplace/actions/build-and-deploy-documentation-with-docmd"><img src="https://img.shields.io/badge/Deploy_docmd-GitHub_Action-blue?style=flat-square&logo=github" alt="deploy docmd with actions"></a>
   <a href="https://www.npmjs.com/package/@docmd/core"><img src="https://img.shields.io/npm/v/@docmd/core.svg?style=flat-square&color=CB3837" alt="npm version"></a>
   <a href="https://www.npmjs.com/package/@docmd/core"><img src="https://img.shields.io/npm/dm/@docmd/core.svg?style=flat-square&color=38bd24" alt="downloads"></a>
   <a href="https://github.com/docmd-io/docmd/stargazers"><img src="https://img.shields.io/github/stars/docmd-io/docmd?style=flat-square&logo=github" alt="stars"></a>
