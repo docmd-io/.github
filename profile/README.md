@@ -23,6 +23,6 @@ npx @docmd/core dev
   <a href="https://github.com/docmd-io/docmd/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-A31F34.svg?style=flat-square&color=A31F34" alt="MIT license"></a>
   <br />
   <a href="https://github.com/marketplace/actions/build-and-deploy-documentation-with-docmd"><img src="https://img.shields.io/badge/action-deploy_docmd-blue?style=flat-square&logo=github" alt="GitHub Actions deploy"></a>
-  <a href="https://github.com/docmd-io/docmd-template"><img src="https://img.shields.io/badge/docmd_template-blue?style=flat-square&logo=github" alt="docmd template"></a>
+  <a href="https://github.com/docmd-io/docmd-template/generate"><img src="https://img.shields.io/badge/docmd_template-blue?style=flat-square&logo=github" alt="docmd template"></a>
   <a href="https://github.com/docmd-io/docmd-skills"><img src="https://img.shields.io/badge/AI-SKILL.md-blue?style=flat-square&logo=robot" alt="docmd AI skills"></a>
 </div>
