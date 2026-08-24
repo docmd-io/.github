@@ -1,16 +1,16 @@
 <img src="https://github.com/docmd-io/docmd/blob/main/packages/ui/assets/images/docmd-logo-dark.png?raw=true" alt="docmd logo" width="180" />
 
-### Build production-ready documentation from Markdown in seconds.
+### Documentation for humans and machines.
 
-<b>AI-First Documentation Engine for developers and AI agents.</b>
-<br/>
-No React, no heavy bundles, no configuration. Just beautiful docs, instantly.
+<b>Open source documentation compiler.</b>
+<br>
+One Markdown source, one command — generates website, search, AI context, agent protocols, and knowledge formats together.
 
 <div>
-  <h4><a href="https://docmd.io">Website</a> • <a href="https://docs.docmd.io">Documentation</a> • <a href="https://live.docmd.io">Live Editor</a></h4>
+  <h4><a href="https://docmd.io">Website</a> • <a href="https://docs.docmd.io">Documentation</a> • <a href="https://live.docmd.io">Live Editor</a> • <a href="https://cloud.docmd.io">Cloud Relay</a></h4>
 </div>
 
-#### Zero Config. Instant Launch.
+#### One command. Entire knowledge ecosystem.
 
 ```bash
 npx @docmd/core dev
